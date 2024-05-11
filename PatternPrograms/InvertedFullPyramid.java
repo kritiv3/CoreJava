@@ -23,5 +23,6 @@ public class InvertedFullPyramid{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

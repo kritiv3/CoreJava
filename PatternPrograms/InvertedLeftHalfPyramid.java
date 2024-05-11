@@ -22,5 +22,6 @@ public class InvertedLeftHalfPyramid{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

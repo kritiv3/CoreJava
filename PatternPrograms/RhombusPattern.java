@@ -23,5 +23,6 @@ public class RhombusPattern{
             }
             System.out.println();
         }
+        sc.close();
     }
 }
